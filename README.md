@@ -45,7 +45,7 @@ pip install groq pypdf python-dotenv pydantic
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Kumar24Gaurav/Resume_Screening.git
+   git clone https://github.com/Kumar24Gaurav/Resume_Matcher.git
    cd <your-repo>
    ```
 
